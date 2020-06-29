@@ -1,0 +1,1 @@
+An application for storing user data by making an API POST request to the servers of Mailchimp
