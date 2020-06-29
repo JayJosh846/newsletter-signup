@@ -43,7 +43,7 @@ app.post("/", function(req, res)
     const options = 
     {
         method: "POST",
-        auth: "jayjosh846:4c82844132c72e003f7e51c031e574c9-us10"
+        auth: "jayjosh846:API_KEY"
 
     }
 
